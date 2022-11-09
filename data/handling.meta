@@ -30807,11 +30807,11 @@
 				</Item>
 				<Item type="CVehicleWeaponHandlingData">
 					<uWeaponHash>
-						<Item>VEHICLE_WEAPON_BOMBUSHKA_DUALMG</Item> <!-- NOSE STOCK -->
-						<Item>VEHICLE_WEAPON_BOMBUSHKA_CANNON</Item> <!-- NOSE MOD -->
-						<Item>VEHICLE_WEAPON_BOMBUSHKA_CANNON</Item> <!-- TOP STOCK -->
-						<Item>VEHICLE_WEAPON_BOMBUSHKA_DUALMG</Item> <!-- REAR STOCK -->
-						<Item>VEHICLE_WEAPON_BOMBUSHKA_CANNON</Item> <!-- REAR MOD -->
+						<Item>VEHICLE_WEAPON_BOMBUSHKA_DUALMG</Item>
+						<Item>VEHICLE_WEAPON_BOMBUSHKA_CANNON</Item>
+						<Item>VEHICLE_WEAPON_BOMBUSHKA_CANNON</Item>
+						<Item>VEHICLE_WEAPON_BOMBUSHKA_DUALMG</Item>
+						<Item>VEHICLE_WEAPON_BOMBUSHKA_CANNON</Item>
 						<Item />
 					</uWeaponHash>
 					<WeaponSeats content="int_array">2 2 1 3 3 0</WeaponSeats>

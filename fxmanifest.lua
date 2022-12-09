@@ -1,7 +1,15 @@
-fx_version 'cerulean'
-game 'gta5'
+--[[ FX Information ]]--
+fx_version   'cerulean'
+use_experimental_fxv2_oal 'yes'
+lua54        'yes'
+game         'gta5'
 
-authors {'Rio', 'DokaDoka'}
+--[[ Resource Information ]]--
+name         'rlfv'
+version      '0.1.0'
+description  'Realistic Lore-Friendly Vehicles'
+authors      {'DokaDoka', 'Rio'}
+repository   'https://github.com/Sov-Nation/rlfv'
 
 files {
     'data/*.meta',

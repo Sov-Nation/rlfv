@@ -2268,6 +2268,8 @@
 					<linkedModels />
 					<turnOffBones>
 						<Item>misc_b</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
 					</turnOffBones>
 					<type>VMT_EXHAUST</type>
 					<bone>chassis</bone>
@@ -2285,6 +2287,8 @@
 					<linkedModels />
 					<turnOffBones>
 						<Item>misc_b</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
 					</turnOffBones>
 					<type>VMT_EXHAUST</type>
 					<bone>chassis</bone>
@@ -2302,6 +2306,8 @@
 					<linkedModels />
 					<turnOffBones>
 						<Item>misc_b</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
 					</turnOffBones>
 					<type>VMT_EXHAUST</type>
 					<bone>chassis</bone>
@@ -2319,6 +2325,8 @@
 					<linkedModels />
 					<turnOffBones>
 						<Item>misc_b</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
 					</turnOffBones>
 					<type>VMT_EXHAUST</type>
 					<bone>chassis</bone>

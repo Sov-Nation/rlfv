@@ -15,9 +15,13 @@ files {
     'data/*.meta',
 }
 
-data_file 'CARCOLS_FILE' 'data/carcols-kits1.meta'
-data_file 'CARCOLS_FILE' 'data/carcols-kits2.meta'
-data_file 'CARCOLS_FILE' 'data/carcols-kits3.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits0XX.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits1XX.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits2XX.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits3XX.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits4XX.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits5XX.meta'
+data_file 'CARCOLS_FILE' 'data/carcols-kits9XX.meta'
 data_file 'CARCOLS_FILE' 'data/carcols-other.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/carvariations.meta'
 data_file 'HANDLING_FILE' 'data/handling.meta'
